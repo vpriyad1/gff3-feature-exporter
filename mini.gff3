@@ -1,0 +1,8 @@
+##gff-version 3
+chr1	test	gene	1	20	.	+	.	ID=GENE001;Name=alpha
+chr1	test	gene	31	50	.	-	.	ID=GENE002;Name=beta
+##FASTA
+>chr1
+AAAACCCCGGGGTTTTACGT
+NNNNNNNNNN
+TTTTGGGGCCCCAAAATGCA
